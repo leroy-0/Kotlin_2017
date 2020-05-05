@@ -1,0 +1,8 @@
+*.o
+*~
+~*~
+#*#
+vgcore*
+CMake*
+.idea
+tests

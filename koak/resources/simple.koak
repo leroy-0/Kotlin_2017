@@ -1,0 +1,10 @@
+extern putchar(c:char):void;
+
+def check_password(str1:string)
+	if str1 == "toto" then
+		putchar('G')
+	else
+		putchar('B');
+
+
+check_password("salut");
